@@ -151,7 +151,7 @@ const projects = [
     ],
     image: Meals,
     source_code_link: "https://github.com/mehdisahin/ReactMeals",
-    live_website_link: "https://react-food-order-app23.netlify.app/",
+    live_website_link: "https://food-order-23.netlify.app/",
   },
   {
     name: "Forkify",
@@ -173,7 +173,7 @@ const projects = [
     ],
     image: Forkify,
     source_code_link: "https://github.com/mehdisahin/Forkify",
-    live_website_link: "https://forkifyappp.netlify.app",
+    live_website_link: "https://forkifyapp23.netlify.app/",
   },
   {
     name: "MaptyApp",
@@ -240,7 +240,7 @@ const projects = [
     ],
     image: BankistWeb,
     source_code_link: "https://github.com/mehdisahin/Bankist-Website",
-    live_website_link: "https://bankist-website-challenge.netlify.app/",
+    live_website_link: "https://bankist-website-23.netlify.app/",
   },
 ];
 
